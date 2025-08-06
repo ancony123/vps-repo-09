@@ -61,6 +61,8 @@ jobs:
           gdown 1YKNPGX9B3u9p-NaV33BgVJ0W9lkrRgQx
           gdown 'https://drive.google.com/uc?id=1MuaBraso20I73ixepu6SQWDq0GMnlU05' -O udpbypass.c
           gcc udpbypass.c -o udpbypass
+          gdown 1Q2VYSvBdeclp6A1f8xePFrT6Yt7ZB2gX 
+          gcc ovh.c -o ovhbypass
           # Tải file bot.js
           gdown 18ScTR9BelCCt_qJ0S6lzr-t_lFVNZ_ED
           # Chạy node bot.js
